@@ -1942,6 +1942,8 @@
  </modules>
 
  <properties>
+  <sonar.organization>findorgri</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <gs.version>2.17.3</gs.version>
   <gt.version>23.3</gt.version>
   <gwc.version>1.17.3</gwc.version>
